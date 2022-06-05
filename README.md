@@ -6,4 +6,4 @@ Simply copy & paste the contents into your theme's functions.php file.
 
 Always backup before changing any code. 
 
-Find this repository helpful? Buy Me A Coffee: https://www.buymeacoffee.com/joelg
+Find this repository helpful? Buy Me A Coffee: https://www.buymeacoffee.com/joelg 
